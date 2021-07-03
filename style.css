@@ -6,16 +6,23 @@ h1{
     text-align: center;
 }
 div{
-    color: rgb(185, 57, 57);
-    background: rgb(219, 243, 7);
+    font-family: 'Yomogi', cursive;
+    color: rgb(86, 92, 3);
+    background: rgb(164, 175, 66);
     border: 10px dotted red;
     border-radius: 25px;
     padding: 20px;
     margin: 20px;
 }
+.tp{
+    font-size: 30px;
+    font-family: fantasy;
+    color: rgb(229, 245, 7);
+}
 .b2{
     color: rgb(8, 60, 138);
 }
-#r2{
-    font-weight: bold;
+#foo{
+    color: darkblue;
+    font-weight: 800;
 }
