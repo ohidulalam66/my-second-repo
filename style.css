@@ -1,0 +1,21 @@
+*{
+    text-align: justify;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+div{
+    color: rgb(185, 57, 57);
+    background: rgb(219, 243, 7);
+    border: 10px dotted red;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px;
+}
+.b2{
+    color: rgb(8, 60, 138);
+}
+#r2{
+    font-weight: bold;
+}
