@@ -28,15 +28,11 @@ div a{
     font-weight: 600;
     text-decoration: none;
 }
-.tp{
+#tp{
     font-size: 30px;
     font-family: fantasy;
     color: rgb(229, 245, 7);
 }
 .b2{
     color: rgb(8, 60, 138);
-}
-#foo{
-    color: darkblue;
-    font-weight: 800;
 }
